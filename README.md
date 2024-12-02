@@ -1,8 +1,8 @@
-# GameScope
+# Peaky Blinders game sales
 
-GameScope is a macroscope designed for enthusiasts, and researchers interested in exploring the intricate landscape of video game sales spanning from 1996 to 2016. Tailored to meet the diverse needs of the gaming community, this tool empowers users to dive into the vast realm of gaming data, providing insights into sale numbers, genre preferences, and regional best-sellers.
+Peaky Blin ders game sales is a macroscope designed for enthusiasts, and researchers interested in exploring the intricate landscape of video game sales spanning from 1996 to 2016. Tailored to meet the diverse needs of the gaming community, this tool empowers users to dive into the vast realm of gaming data, providing insights into sale numbers, genre preferences, and regional best-sellers.
 
-Link: https://gamescope.streamlit.app/
+Link: aaji baki che
 
 ## Tech
 
